@@ -50,7 +50,7 @@
                 <iframe id="fr_envios" class="border border-primary w-100" src="" allow="clipboard-write" height="300px"
                     frameborder="0"></iframe>
             </div>
-            <button class="btn btn-primary" onclick="insertCdr()">Insertar Cdr</button>
+            <button class="btn btn-primary" onclick="insertCdr()">Insertar Cdr Aqui</button>
         </div>
         <textarea id="text-area" hidden rows="10"></textarea>
 
