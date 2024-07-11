@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^$ resumen.php [L]
+RewriteRule ^procesar-resumen$ resumen.php [L]
